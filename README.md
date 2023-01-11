@@ -7,3 +7,4 @@
 6.PDA a^nb^n
 7.PDA a^nb^2n
 8. string comparision
+9.TM addition
