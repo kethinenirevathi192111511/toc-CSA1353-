@@ -1,4 +1,4 @@
 # toc-CSA1353-
-NFA to accept no.of a's,
-DFA to accept bcaaaaaa,bc,c,
-4.turing machinefor a^nb^n
+1.NFA to accept no.of a's
+2.DFA to accept bcaaaaaa,bc,c
+3.turing machinefor a^nb^n
